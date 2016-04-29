@@ -1,12 +1,5 @@
 @import url(normalize.css);
 
-@font-face {
-  font-family: "StudioScriptC";
-  src: url("../fonts/StudioScriptC-1.otf");
-  font-weight: normal;
-  font-style: normal;
-}
-
 [class^="blend"] img {
   mix-blend-mode: luminosity;
 }
@@ -434,7 +427,7 @@ footer {
   text-align: center;
   font-size: 30px;
   text-shadow: 1px 1px 1px #000;
-  font-family: "StudioScriptC";
+  font-family: "Copperplate Gothic Bold";
 }
 
 .title h2 {
